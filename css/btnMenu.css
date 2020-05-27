@@ -1,0 +1,16 @@
+.btnMenu {
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  text-indent: -9999px;
+  padding: 20px 15px;
+}
+
+.btnMenu_open {
+  display: block;
+  background-image: url('../img/h-b.png');
+}
+
+.btnMenu_close {
+  background-color: #747c81;
+  background-image: url('../img/h-w.png');
+}
